@@ -1,0 +1,5 @@
+#!/usr/bin/env testml
+
+%TestML 1.0
+
+Print("0..1\n");
